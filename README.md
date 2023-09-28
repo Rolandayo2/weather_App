@@ -24,8 +24,8 @@ You can see a live demo of the Weather App [here](https://csb-vcz69x.netlify.app
 
 ## Screenshots
 
-Screenshot (31).png
-Screenshot (32).png
+![Screenshot 1](Screenshot(31).png)
+![Screenshot 2](Screenshot(32).png)
 
 ## Contributing
 
