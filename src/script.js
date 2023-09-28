@@ -1,4 +1,4 @@
-// API Key from OpenWeatherMap (Replace with your own API key)
+// API Key from OpenWeatherMap
 const apiKey = "02a198af250925c2862f54944fe05fce";
 
 // DOM elements
