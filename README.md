@@ -20,12 +20,12 @@ Welcome to the Weather App repository! This simple web application allows you to
 
 ## Demo
 
-You can see a live demo of the Weather App [here](#) (https://csb-vcz69x.netlify.app/).
+You can see a live demo of the Weather App [here](https://csb-vcz69x.netlify.app/).
 
 ## Screenshots
 
-![Screenshot 1](screenshot (31).png)
-![Screenshot 2](screenshot (32).png)
+Screenshot (31).png
+Screenshot (32).png
 
 ## Contributing
 
